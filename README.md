@@ -244,7 +244,7 @@ are welcome. DO NOT submit contributions that enhance attack capabilities.
 Educational Use Only - No warranty provided
 
 ## 👤 Author
-[Luiz Fernando Ziron](https://www.instagram.com/ilt9/)
+[Zaid Almaiah](https://www.instagram.com/ilt9/)
 Created for cybersecurity education and awareness purposes.
 
 ## ⚖️ Legal Notice
